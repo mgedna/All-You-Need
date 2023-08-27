@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004512058338",
+    "project_id": "all-you-need-ae44e",
+    "storage_bucket": "all-you-need-ae44e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004512058338:android:867c77bf3cc85f80d337bb",
+        "android_client_info": {
+          "package_name": "com.example.all_you_need"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004512058338-f35343569vh9vq1en0mnv24u6u7fhjpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2b0f8TsPrzYGPq582NMjsLwUkm9hv_pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004512058338-f35343569vh9vq1en0mnv24u6u7fhjpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
